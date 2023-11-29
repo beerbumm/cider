@@ -169,7 +169,3 @@ button {
   letter-spacing: 0;
   line-height: normal;
 }
-
-.pear {
-  transition: transform 1.2s cubic-bezier(1, 0, 0, 1);
-}
